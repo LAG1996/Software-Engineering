@@ -1,0 +1,35 @@
+.jumbotron{
+	background: #111111;
+}
+
+.orange-text{
+	color: #ff872f;
+}
+
+.white-text{
+	color: #eeeeee;
+}
+
+.red-text{
+	color: #e2194f;
+}
+
+.green-text{
+	color: #2ba870;
+}
+
+.black-text{
+	color:#010101;
+}
+
+#second-row{
+	background-color: #111111;
+}
+
+body{
+	background-color:#555555;
+}
+
+hr.style2{
+	border-color: #ff872f;
+}
